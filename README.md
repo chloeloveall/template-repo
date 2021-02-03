@@ -1,31 +1,40 @@
-# (Application Name)
+# _Project Name_
 
-#### (Brief Description of Application)
+#### _Brief Description_
 
-#### By (Your Name Here)
+#### By _**Chloe Loveall**_
 
 ## Technologies Used
 
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
+* HTML
+* CSS
+* Bootstrap
+* Git
+* Github
+* VS Code
+* JavaScript
+* jQuery
 
 ## Description
 
+_In depth description_<br><br>
+_View project on GH Pages: [gh-pages](https://chloeloveall.github.io/project-name/)_<br><br>
+
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+1. Clone the repository
+    >$ git clone https://github.com/chloeloveall/project-name.git
+2. Open the portfolio-website directory in a code editor (VS Code is recommended)
+3. To view the site from VS Code, use the Live Server extension to open index.html in your preferred browser 
 
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+* None
 
 ## License
 
+[MIT](LICENSE.md)
+
 ## Contact Information
+
+_Chloe Loveall <chloeloveall@protonmail.com>_
