@@ -1,4 +1,7 @@
+![image of webpage that is 1280x650px](image.jpg)
+
 # _Project Name_
+![project license type](https://img.shields.io/github/license/chloeloveall/template-repo?style=for-the-badge) &nbsp; ![top project language](https://img.shields.io/github/languages/top/chloeloveall/template-repo?style=for-the-badge) &nbsp; ![last github commit](https://img.shields.io/github/last-commit/chloeloveall/template-repo?style=for-the-badge) &nbsp; ![github pull requests](https://img.shields.io/github/issues-pr/chloeloveall/template-repo?style=for-the-badge)
 
 #### _Brief Description_
 
@@ -46,3 +49,5 @@ _View project on GH Pages: [gh-pages](https://chloeloveall.github.io/project-nam
 ## Contact Information
 
 _Chloe Loveall <chloeloveall@protonmail.com>_
+
+![github followers](https://img.shields.io/github/followers/chloeloveall?style=social) &nbsp; ![github forks](https://img.shields.io/github/forks/chloeloveall/template-repo?label=Forks&style=social) &nbsp; ![github stars](https://img.shields.io/github/stars/chloeloveall/template-repo?style=social)
